@@ -6,8 +6,8 @@ Download the zip file and extract
 2. import the project to your IDE as Existing maven project 
 	
 3. Run the following maven commands
-maven clean
-maven install
+	1.maven clean
+	2.maven install
 
 4. deploy to tomcat server 
 
